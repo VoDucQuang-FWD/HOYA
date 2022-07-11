@@ -1,0 +1,15 @@
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\bin\Debug\Hoya.exe.config
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\bin\Debug\Hoya.exe
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\bin\Debug\Hoya.pdb
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\Hoya.csproj.AssemblyReference.cache
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\MainWindow.g.cs
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\App.g.cs
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\Hoya_MarkupCompile.cache
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\Hoya_MarkupCompile.lref
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\MainWindow.baml
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\Hoya.g.resources
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\Hoya.Properties.Resources.resources
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\Hoya.csproj.GenerateResource.cache
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\Hoya.csproj.CoreCompileInputs.cache
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\Hoya.exe
+F:\Cong_Viec\iotHoza\HOYA\Hoya\Hoya\obj\Debug\Hoya.pdb
